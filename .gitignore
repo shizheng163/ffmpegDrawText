@@ -17,10 +17,17 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
-x86/
+x64/[Dd]ebug/
+x64/[Dd]ebugPublic/
+x64/[Rr]elease/
+x64/[Rr]eleases/
+x86//[Dd]ebug/
+x86//[Dd]ebugPublic/
+x86//[Rr]elease/
+x86//[Rr]eleases/
+
 bld/
-[Bb]in/
+#[Bb]in/
 [Oo]bj/
 [Ll]og/
 
